@@ -1,1 +1,1 @@
-neural_network
+neural network framework
